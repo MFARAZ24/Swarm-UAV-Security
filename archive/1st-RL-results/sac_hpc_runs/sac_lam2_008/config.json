@@ -1,0 +1,21 @@
+{
+  "name": "sac_lam2_008",
+  "alpha_rx": 0.05,
+  "lambda1": 1.0,
+  "lambda2": 0.08,
+  "lambda3": 0.01,
+  "Tmin": 1.0,
+  "Tmax": 50.0,
+  "delta_limit": 2.0,
+  "max_episode_steps": 500,
+  "learning_rate": 0.0003,
+  "buffer_size": 100000,
+  "learning_starts": 1000,
+  "batch_size": 256,
+  "tau": 0.005,
+  "gamma": 0.95,
+  "ent_coef": "auto",
+  "seed": 7,
+  "device": "auto",
+  "total_timesteps": 300000
+}

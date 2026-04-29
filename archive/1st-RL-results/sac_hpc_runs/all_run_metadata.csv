@@ -1,0 +1,4 @@
+config_name,train_time_seconds,overall_score,model_path,vecnormalize_path,results_path,summary_path
+sac_lam2_005,1739.4034519195557,-0.016580778269864767,sac_hpc_runs/sac_lam2_005/sac_model.zip,sac_hpc_runs/sac_lam2_005/vecnormalize.pkl,sac_hpc_runs/sac_lam2_005/evaluation_results.csv,sac_hpc_runs/sac_lam2_005/env_summary.csv
+sac_lam2_008,1728.4060797691345,-0.016816394593653965,sac_hpc_runs/sac_lam2_008/sac_model.zip,sac_hpc_runs/sac_lam2_008/vecnormalize.pkl,sac_hpc_runs/sac_lam2_008/evaluation_results.csv,sac_hpc_runs/sac_lam2_008/env_summary.csv
+sac_lam2_010,1731.6337430477142,-0.017097816003394047,sac_hpc_runs/sac_lam2_010/sac_model.zip,sac_hpc_runs/sac_lam2_010/vecnormalize.pkl,sac_hpc_runs/sac_lam2_010/evaluation_results.csv,sac_hpc_runs/sac_lam2_010/env_summary.csv

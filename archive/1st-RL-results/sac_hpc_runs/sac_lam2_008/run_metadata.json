@@ -1,0 +1,9 @@
+{
+  "config_name": "sac_lam2_008",
+  "train_time_seconds": 1728.4060797691345,
+  "overall_score": -0.016816394593653965,
+  "model_path": "sac_hpc_runs/sac_lam2_008/sac_model.zip",
+  "vecnormalize_path": "sac_hpc_runs/sac_lam2_008/vecnormalize.pkl",
+  "results_path": "sac_hpc_runs/sac_lam2_008/evaluation_results.csv",
+  "summary_path": "sac_hpc_runs/sac_lam2_008/env_summary.csv"
+}
